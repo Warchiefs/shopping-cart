@@ -20,7 +20,7 @@ return [
 
 
 ];
-</code
+</code>
 
 # Use example
 
