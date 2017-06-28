@@ -1,0 +1,16 @@
+{
+  "name": "warchiefs/shopping-cart",
+  "description": "Simple shopping cart for Laravel 5.4",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Alexandr Muradov",
+      "email": "ialexmur@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Warchiefs\\ShoppingCart\\": "src"
+    }
+  }
+}
